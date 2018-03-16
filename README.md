@@ -1,0 +1,2 @@
+# PHPParentKeyword
+parentキーワード（super）
